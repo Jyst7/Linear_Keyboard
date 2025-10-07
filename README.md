@@ -22,13 +22,13 @@ BOM
 | 50x      | M3 hex nuts                                        |$2.25  |https://www.aliexpress.com/item/33030388407.html?mp=1&pdp_npi=5@dis!USD!USD%201.78!USD%201.78!!!!!@2103246617417899113138605ef785!12000026751100526!ct!CA!6304712323!!1!0
 | 30x      | M3x4.5mx8mm heatset inserts                        |$3     |https://www.aliexpress.com/item/1005003582355741.html?mp=1&pdp_npi=5@dis!USD!USD%202.60!USD%202.60!!!!!@2103277f17417897632303038e6c3f!12000026370649832!ct!CA!6304712323!!1!0|
 | 50x      | M3x8mm screws                                      |$2.75  |https://www.aliexpress.com/item/1005006869763828.html?mp=1&pdp_npi=5@dis!USD!USD%202.31!USD%202.31!!!!!@2103246617417899113138605ef785!12000044195147606!ct!CA!6304712323!!1!0|
-| 1x       | Keyboard PCB Left                                  |$21    |
-| 1x       | Keyboard PCB Right                                 |$21    |
+| 1x       | Keyboard PCB Left                                  |$24    |
+| 1x       | Keyboard PCB Right                                 |$24    |
 
 | Overall  | Price Breakdown                                    |Price  |
 |----------|----------------------------------------------------|-------|
-|PCB       |$21+$21                                             |$42    |
-|Switches  |$30                                                 |$30    |
+|PCB       |$24+$24                                             |$48    |
+|Switches  |$30                                                 |$20    |
 |Fasteners |$2.25+$3+$2.75                                      |$8     |
 |Misc      |$4.25+$1.15+$3.20+$2.05+$2+$2.35                    |$15    |
 |MCU       |2x Orpheus Pico                                     |HC     |
