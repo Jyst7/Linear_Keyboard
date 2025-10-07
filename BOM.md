@@ -2,7 +2,7 @@
 
 | Quantity | Component Description                              |Price  |Links                  |
 |----------|----------------------------------------------------|-------|-----------------------|
-| 90x      | KTT Kang Whites V3                                 |$30    |https://www.amazon.com/KPREPUBLIC-Mechanical-Keyboard-Factory-Kangbai/dp/B0CJGL7WR8?sr=8-3|
+| 90x      | KTT Kang Whites V3                                 |$20    |https://www.aliexpress.com/item/1005006355385384.html|
 | 50x      | Reverse-mounted SK6812MINI-E SMD LEDs              |$4.25   |https://www.aliexpress.com/item/1005005193716172.html?mp=1&pdp_npi=5@dis!USD!USD%203.75!USD%203.75!!!!!@2103246617417899113138605ef785!12000032072424634!ct!CA!6304712323!!1!0
 | 100x     | SMD Diodes (1N4148W)                               |$1.15  |https://www.aliexpress.com/item/4001126137167.html?mp=1&pdp_npi=5@dis!USD!USD%201.21!USD%200.99!!!!!@2103246617417899113138605ef785!10000014629985518!ct!CA!6304712323!!1!0
 | 2x       | 0.91" OLED display                                 |$3.20   |https://www.aliexpress.com/item/1005001572699049.html?mp=1&pdp_npi=5@dis!USD!USD%201.00!USD%200.86!!!!!@2103246617417899113138605ef785!12000016636355827!ct!CA!6304712323!!2!0
